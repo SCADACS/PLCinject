@@ -46,8 +46,8 @@ The filename convention is &lt;blocktype&gt;_&lt;blocknumber&gt;.mc7 (e.g. "FC_1
 
 Example:
 
-    plcinject -c 10.0.0.1 -p OB1 -b FB1000 -f /home/user/PATH 
+    plcinject -c 10.0.0.1 -p OB1 -b FC1000 -f /home/user/PATH 
 
 This example will upload OB1 from the PLC at 10.0.0.1, inject this OB1 with a call instruction
-to the function block FB1000 which is located at /home/user/PATH and then
+to the function block FC1000 which is located at /home/user/PATH and then
 downloads all blocks in /home/user/PATH and the modified OB1 back to the PLC.
