@@ -1,5 +1,6 @@
 # PLCinject
 
+Brought to you by [www.SCADACS.org](https://www.scadacs.org).
 
 ## Compiling
 
